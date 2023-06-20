@@ -6,3 +6,5 @@ Repository contains the following directories:
 
 * **argocd** - directory contains Argo CD instance configuration. The configuration includes RBAC settings and infrastructure application definitions.
 * **clusters** - directory contains adminstrator level cluster configurations.
+
+* my dummy pr
